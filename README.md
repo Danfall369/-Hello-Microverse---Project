@@ -68,16 +68,16 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
 
--Visual Code Studio
--Git Bash
--Node.js
+<ul>
+<li>Visual Code Studio</li>
+<li>Git Bash</li>
+<li>Node.js</li>
+</ul>
 
 ### Setup
 
@@ -97,25 +97,25 @@ N/A
 
 To run the project, execute the following command:
 
--With Visual Studio Code, open the folder where you downloaded this repository
+<p>-With Visual Studio Code, open the folder where you downloaded this repository</p>
 
 
 ### Run tests
 
 To run tests, run the following command:
 
--to use in HTML file use this command line in the console: npx hint .
--to use in a CSS file use this command line in the console: npx stylelint "**/*.{css,scss}"
+<ul>
+  <li>to use in HTML file use this command line in the console: npx hint .</li>
+  <li>to use in a CSS file use this command line in the console: npx stylelint "**/*.{css,scss}"</li>
+</ul>
 
 ### Deployment
 
 You can deploy this project using:
 
--GitHub or GitHub Desktop
+<p>-GitHub or GitHub Desktop</p[>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
