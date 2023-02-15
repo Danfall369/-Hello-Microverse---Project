@@ -32,10 +32,10 @@
 - [📝 License](#license)
 
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Hello Microverse Project] <a name="about-project"></a>
 
 
-**[your_project__name]** is a exercise to implement and use tools like linters and GitHub Flows
+**[Hello Microverse Project]** is a exercise to implement and use tools like linters and GitHub Flows
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -45,31 +45,14 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li>HTML and CSS</li>
   </ul>
 </details>
 
 
 ### Key Features <a name="key-features"></a>
 
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -77,49 +60,14 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
-To get a local copy up and running, follow these steps.
-
-### Prerequisites
-
-In order to run this project you need:
-
-
-### Setup
-
-Clone this repository to your desired folder:
-
-
-
-### Install
-
-Install this project with:
-
-
-
-### Usage
-
-To run the project, execute the following command:
-
-
-
-### Run tests
-
-To run tests, run the following command:
-
-
-
-### Deployment
-
-You can deploy this project using:
+-N/A
 
 
 
@@ -130,7 +78,7 @@ You can deploy this project using:
 ## 👥 Authors <a name="authors"></a>
 
 
-👤 **Author1**
+👤 **Daniel Falcon**
 
 - GitHub: [@Danfall369](https://github.com/Danfall369)
 - Twitter: [@Danfall369](https://twitter.com/Danfall369)
@@ -141,10 +89,7 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -161,7 +106,7 @@ Feel free to check the [issues page](../../issues/).
 ## ⭐️ Show your support <a name="support"></a>
 
 
-If you like this project...
+If you like this project please give me a comment!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -169,7 +114,7 @@ If you like this project...
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thank...
+I would like to thanks to a Microverse fort the support!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
