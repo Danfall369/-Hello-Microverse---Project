@@ -22,13 +22,12 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
+  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 
@@ -52,7 +51,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-N/A
+- **[Its a simple design]**
+- **[its clear]**
+- **[its friendly]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -67,7 +68,53 @@ N/A
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
--N/A
+> Describe how a new developer could make use of your project.
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+-Visual Code Studio
+-Git Bash
+-Node.js
+
+### Setup
+
+Clone this repository to your desired folder:
+
+-sh
+  cd (your folder)
+  git clone git@github.com:Danfall369/-Hello-Microverse---Project.git
+
+### Install
+
+Install this project with:
+
+N/A
+
+### Usage
+
+To run the project, execute the following command:
+
+-With Visual Studio Code, open the folder where you downloaded this repository
+
+
+### Run tests
+
+To run tests, run the following command:
+
+-to use in HTML file use this command line in the console: npx hint .
+-to use in a CSS file use this command line in the console: npx stylelint "**/*.{css,scss}"
+
+### Deployment
+
+You can deploy this project using:
+
+-GitHub or GitHub Desktop
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -89,7 +136,9 @@ N/A
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-N/A
+- **[More Desings]**
+- **[More Functions]**
+- **[More Content]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
